@@ -1,0 +1,9 @@
+name: Snow
+version: 0.0.1
+main: Infinity.Snow.Main.PluginMain
+commands:
+  snow:
+    description: Everything!
+    usage: /<command>
+    aliases: [sno, sn]
+
